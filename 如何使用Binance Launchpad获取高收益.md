@@ -1,7 +1,8 @@
 binance launchpad是一个币安新项目的发行平台,</br> 币安的用户可以使用bnb以及币安主推的稳定币进行质押挖矿,</br> 赚取新发行的代币, 获取高额收益
 
 如下图所示,点击搜索按钮,点击launchpad
-![launchpad入口](media/launchpad%E5%85%A5%E5%8F%A3-1.png)
+![launchpad入口](media/launchpad%E5%85%A5%E5%8F%A3.png)
+
 
 进入到主页后我们可以看见, 目前可以使用3种代币进行挖矿FDUSD, TUSD和BNB, 挖矿的奖励为meme代币
 ![launchpad主页](media/launchpad%E4%B8%BB%E9%A1%B5.png)
