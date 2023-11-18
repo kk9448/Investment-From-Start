@@ -1,4 +1,4 @@
-binance launchpad是一个币安新项目的发行平台, 币安的用户可以使用bnb以及币安主推的稳定币进行质押挖矿, 赚取新发行的代币, 获取高额收益
+binance launchpad是一个币安新项目的发行平台,</br> 币安的用户可以使用bnb以及币安主推的稳定币进行质押挖矿, 赚取新发行的代币, 获取高额收益
 
 如下图所示,点击搜索按钮,点击launchpad
 ![launchpad入口](media/launchpad%E5%85%A5%E5%8F%A3-1.png)
